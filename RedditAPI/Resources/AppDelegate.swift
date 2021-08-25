@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RedditAPI
 //
-//  Created by Field Employee on 8/17/21.
+//  Created by Yagmur Egilmez on 8/17/21.
 //
 
 import UIKit
